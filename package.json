@@ -20,6 +20,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "embla-carousel-vue": "^8.6.0",
+    "lodash-es": "^4.17.21",
     "lucide-vue-next": "^0.509.0",
     "nuxt": "^3.17.2",
     "reka-ui": "^2.2.1",
@@ -36,6 +37,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.13.0",
+    "@types/lodash-es": "^4.17.12",
     "eslint": "^9.26.0",
     "eslint-plugin-format": "^1.0.1"
   }
